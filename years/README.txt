@@ -7,7 +7,8 @@ Write a function called "years", which contains the main logic: calculates the y
 
 Extras:
 
-1) Add on to the previous program by asking the user for another number and printing out that many copies of the previous message.
+1) Add on to the previous program by asking the user for another number and printing
+ out that many copies of the previous message.
 (Hint: order of operations exists in Python)
 
 2) Print out that many copies of the previous message on separate lines.
